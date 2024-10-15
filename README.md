@@ -1,4 +1,3 @@
-# .github
 # DO4U App - Cambiando Vidas
 
 DO4U es una plataforma creada con el objetivo de unir comunidades y generar un impacto positivo en la sociedad. A través de su aplicación, facilita la ayuda a beneficiarios, el apoyo a emprendedores y la promoción de acciones de impacto social. La app proporciona una forma eficiente y transparente de elegir beneficiarios y colaborar con iniciativas humanitarias.
